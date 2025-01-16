@@ -390,14 +390,14 @@ body{
 }
 .first .number{
   color: white;
-  font-size: 70px;
+  font-size: 50px;
   margin-left: 30px;
   font-family: "Changa",cursive;
 }
 .first .heading{
   color: white;
   margin-left: 20px;
-  font-size: 30px;
+  font-size: 25px;
   font-family: "Changa",cursive;
 }
 .first .metainfo{
@@ -405,7 +405,7 @@ body{
   margin-top: 10px;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 20px;
+  font-size: 18px;
   width: 85%;
 }
 /* hover effect  */
@@ -432,21 +432,21 @@ body{
 }
 .second .number{
   color: white;
-  font-size: 75px;
+  font-size: 50px;
   margin-left: 30px;
   font-family: "Changa",cursive;
 }
 .second .heading {
   color: white;
   margin-left: 20px;
-  font-size: 30px;
+  font-size: 25px;
   font-family: "Changa",cursive;
 }
 .second .metainfo{
   color: white;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 20px; 
+  font-size: 18px; 
   width: 85%;
 }
 .second:hover .number {
@@ -474,7 +474,7 @@ body{
 }
 .third .number{
   color: white;
-  font-size: 75px;
+  font-size: 50px;
   margin-left: 30px;
   font-family: "Changa",cursive;
 
@@ -483,13 +483,13 @@ body{
   color: white;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 .third .metainfo{
   color: white;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 20px; 
+  font-size: 18px; 
   width: 85%;
 }
 /* Hover effect */
@@ -515,7 +515,7 @@ body{
 }
 .fourth .number{
   color: white;
-  font-size: 75px;
+  font-size: 50px;
   margin-left: 30px;
   font-family: "Changa",cursive;
 }
@@ -523,13 +523,13 @@ body{
   color: white;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 30px;
+  font-size: 25px;
 }
 .fourth .metainfo{
   color: white;
   margin-left: 20px;
   font-family: "Changa",cursive;
-  font-size: 20px; 
+  font-size: 18px; 
   width: 85%;
 }
 /* Hover Effect  */
@@ -919,12 +919,14 @@ body{
    font-size: 20px;
    font-family: "Changa",cursive;
 }
-.bootstrap i{
+.bootstrap img{
   color: white;
-  font-size: 64px;
-  margin-top: 30px;
+  width: 80px;
+  margin-top: 20px;
+  margin-left: 30px; 
+  border-radius: 20px;
   display: block;
-  margin-bottom: 17px;
+  margin-bottom: 10px;
   background-color: rgb(24, 23, 23);
 }
 .html {
@@ -981,23 +983,26 @@ body{
   margin-bottom: 17px;
   background-color: rgb(24, 23, 23);
 }
-.python{
+.mongodb{
   width: 20%;
   height: 26vh;
   margin-left: 20px;
   color: rgb(52, 216, 123);
   background-color: rgb(24, 23, 23);
   text-align: center;
-  font-size: 20px;
+  font-size: 15px;
   font-family: "Changa",cursive;  
 }
-.python i{
+.mongodb img{
   color: white;
-  font-size: 64px;
-  margin-top: 30px;
+  width: 100px;
+  margin-top: 12px;
+  border-radius: 20px;
+  margin-left: 20px;
   display: block;
-  margin-bottom: 17px;
+  margin-bottom: 7px;
   background-color: rgb(24, 23, 23);
+ 
 }
 .ts{
   width: 20%;
@@ -1170,7 +1175,7 @@ body{
 .project1 .Left span{
   color: rgb(52, 216, 123);
   margin-left: 30px;
-  font-size: 20px;
+  font-size: 13px;
   width: 90%;
   font-weight: 400;
   margin-bottom: 10px;
